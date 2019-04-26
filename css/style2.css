@@ -1,0 +1,43 @@
+h1, h2, h3
+{
+	font-size: 25px;
+	margin-left: 8px;
+	
+}
+input
+{
+	margin-left: 30px;
+}
+body
+{
+	background: rgb(233, 137,50);
+}
+label
+{
+	
+	font-size: 20px;
+	margin: 10px;
+	padding-right: 20px;
+	
+}
+.form 
+{
+	box-shadow: 5px 5px 3px maroon;
+	background: rgb(128,17,35,.6);
+	margin: 50px 400px;
+	width: 550px;
+	height: 650px;
+	border-radius: 10px;
+	padding-left: 30px;
+}
+.btn input
+{
+	margin-bottom: 3px;
+	margin-left:100px;
+}
+span
+{
+	color: orange;
+	font-weight: bold;
+	font-size: 15px;
+}
